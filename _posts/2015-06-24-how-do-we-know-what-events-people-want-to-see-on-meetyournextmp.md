@@ -2,7 +2,7 @@
 layout: post
 title:  "How do we know what events people want to see on MeetYourNextMP?"
 excerpt_separator: <!--more-->
-tag: MeetYourNextMP
+tags: [MeetYourNextMP, Events]
 ---
 
 

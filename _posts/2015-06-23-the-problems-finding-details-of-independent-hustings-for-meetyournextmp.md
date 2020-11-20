@@ -2,7 +2,7 @@
 layout: post
 title:  "The problems finding details of independent hustings for MeetYourNextMP"
 excerpt_separator: <!--more-->
-tag: MeetYourNextMP
+tags: [MeetYourNextMP, Events]
 ---
 
 _“now that I follow my candidates, I’m really surprised how many hustings have happened / are happening that are terribly 

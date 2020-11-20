@@ -2,7 +2,7 @@
 layout: post
 title:  "Why MeetYourNextMP only listed independent events"
 excerpt_separator: <!--more-->
-tag: MeetYourNextMP
+tags: [MeetYourNextMP, Events]
 ---
 
 

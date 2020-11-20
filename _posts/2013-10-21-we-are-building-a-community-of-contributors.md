@@ -2,7 +2,7 @@
 layout: post
 title:  "Open Tech Calendar is building a community of contributors"
 excerpt_separator: <!--more-->
-tag: "Open Tech Calendar"
+tags: [Open Tech Calendar, Events]
 ---
 
 _[Open Tech Calendar](https://opentechcalendar.co.uk/) is a website listing tech events. In this blog post we look into 
