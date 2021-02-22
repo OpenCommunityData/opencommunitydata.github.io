@@ -14,4 +14,8 @@ title:  "iCal/iCalendar"
 
 # iCal/iCalendar
 
+This is a very common format for event data, and many other software - including personal calendar software like Google Calendar - can read it.
 
+It is a slightly odd text format - but it is so old and so popular that there are libraries to read and write these files in most programming languages already.
+
+[See more information](https://en.wikipedia.org/wiki/ICalendar).
